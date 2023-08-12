@@ -1,2 +1,3 @@
 # Cyclistic_BikeShare_Chipo
-My analysis of a cyclistic bike share companies dataset to understand trends in riding patterns of paid members versus casual members
+This is my analysis of the ride patterns of the members of Cyclistic; a bikeshare company seeking to convert casual bike riders to members. 
+analysis was done using SQL and then data visialization using Tableau
