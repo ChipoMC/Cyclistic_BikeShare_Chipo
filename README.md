@@ -11,3 +11,5 @@ Welcome to my data-driven journey!
 
 Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://github.com/ChipoMC/Data_Analysis_Portoflio/files/13227787/ChipoMoyoResume.pdf)
 
+
+
