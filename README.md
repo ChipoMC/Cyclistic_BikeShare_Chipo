@@ -14,7 +14,7 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
 ## Table of Contents
 - [Portfolio Projects](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#portfolio-projects)
   - SQL
-    - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Cysclistic_Bikeshare_Chipo.sql)
+    - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio#cyclistic-bikeshare-rider-analysis)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
  
@@ -29,6 +29,22 @@ In this section you will find my projects and the technologies i've used to cont
 This project was part of my capstone project after my completion of the Google Data Analytics Professional certificate; my first ever project. I will look back at it and see where I started from and use it as reference for how much I will learn as I proceed in my journey to become a data analyst.
 
 **Technology:** MS SQL Server
+
+### Education
+The Copperbelt University, Zambia 
+Beng (Hons) Electrical and Electronics Engineering
+2013 - 2018
+
+## Certificates
+- Google Data Analytics Professional Certificate - Coursera
+- Excel Fundamentals for Data Analysis - Coursera
+- Off Grid Solar Systems Design and Installation - Kafue Gorge Training Centre
+
+## Contacts
+- Linkedin:[@Chipomoyo] (www.linkedin.com/in/chipo-moyo-993aa0179)
+- Email: chipomc8@gmail.com
+
+
 
 
 
