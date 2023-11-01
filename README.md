@@ -8,3 +8,6 @@ In my free time, I immerse myself in exploring the latest data analysis tools an
 This repository was created to showcase my skills, share the projects I've worked on, and track my ongoing progress in the field of Data Analytics. 
 
 Welcome to my data-driven journey!
+
+Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://github.com/ChipoMC/Data_Analysis_Portoflio/files/13227787/ChipoMoyoResume.pdf)
+
