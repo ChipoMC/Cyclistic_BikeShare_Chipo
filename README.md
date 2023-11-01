@@ -18,9 +18,9 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
   - Excel / Google Sheets
   - Tableau
     - [Cyclictic BikeShare Viz](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#cyclistic-bikeshare-visualisations)
-  - [Education](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#education)
-  - [Certificates](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#certificates)
-  - [Contacts](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#contacts)
+- [Education](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#education)
+- [Certificates](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#certificates)
+- [Contacts](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#contacts)
  
  
 ## Portfolio Projects
@@ -36,14 +36,12 @@ This project was part of my capstone project after my completion of the Google D
 
 **Technology:** MS SQL Server
 
-## Excel
-
 ## Tableau
 
 ### Cyclistic Bikeshare Visualisations
-[Viz1](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_dashboard1.png)
+[Dashboard 1 - Cyclistic](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_dashboard1.png)
 
-[Viz 2](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_bikeshare2.png)
+[Dashboard 2 - Cyclistic](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_bikeshare2.png)
 
 [See more visualizations on Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
 
