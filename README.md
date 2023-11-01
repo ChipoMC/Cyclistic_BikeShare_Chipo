@@ -17,7 +17,7 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio#cyclistic-bikeshare-rider-analysis)
   - Excel / Google Sheets
   - Tableau
-  -  [Tableau Visualizations](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
+  -  [Tableau Visualizations](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#tableau)
  
 ## Portfolio Projects
 
@@ -31,9 +31,15 @@ This project was part of my capstone project after my completion of the Google D
 
 **Technology:** MS SQL Server
 
-### Tableau
+### Excel
 
-[Some Visualizations I've created using Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
+
+### Cyclistic Bikeshare Visualisations
+[Viz1](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_dashboard1.png)
+
+[Viz 2](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_bikeshare2.png)
+
+[See more visualizations on Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
 
 ### Education
 The Copperbelt University, Zambia 
