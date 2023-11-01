@@ -12,7 +12,7 @@ Welcome to my data-driven journey!
 Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://github.com/ChipoMC/Data_Analysis_Portoflio/files/13227787/ChipoMoyoResume.pdf)
 
 ##Table of Contents
-- [Portfolio Projects](https://github.com/ChipoMC/Data_Analysis_Portoflio/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#portfolio-projects)
   - SQL
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Cysclistic_Bikeshare_Chipo.sql)
   - Excel / Google Sheets
