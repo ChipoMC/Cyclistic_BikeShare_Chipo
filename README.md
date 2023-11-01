@@ -26,6 +26,7 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
 ## Portfolio Projects
 
 In this section you will find my projects and the technologies i've used to continue to improve my data analyst skills.
+## SQL
 
 ### Cyclistic BikeShare Rider Analysis
 **Code:** [Cyclistic BikeShare Capstone Project](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Cysclistic_Bikeshare_Chipo.sql)
@@ -35,8 +36,9 @@ This project was part of my capstone project after my completion of the Google D
 
 **Technology:** MS SQL Server
 
-### Excel
+## Excel
 
+## Tableau
 
 ### Cyclistic Bikeshare Visualisations
 [Viz1](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_dashboard1.png)
@@ -45,17 +47,17 @@ This project was part of my capstone project after my completion of the Google D
 
 [See more visualizations on Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
 
-### Education
+## Education
 The Copperbelt University, Zambia 
 Beng (Hons) Electrical and Electronics Engineering
 2013 - 2018
 
-### Certificates
+## Certificates
 - Google Data Analytics Professional Certificate - Coursera
 - Excel Fundamentals for Data Analysis - Coursera
 - Off Grid Solar Systems Design and Installation - Kafue Gorge Training Centre
 
-### Contacts
+## Contacts
 - Linkedin: [Chipo Moyo](https://www.linkedin.com/in/chipo-moyo-993aa0179/)
 - Email: chipomc8@gmail.com
 
