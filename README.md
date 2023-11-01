@@ -1,5 +1,5 @@
 # Chipo Moyo Data Analysis Portfolio
-Hello, I'm Chipo, an Electrical and Electronics Engineering graduate with a strong analytical background. My engineering education has provided me with a solid foundation in analysis, problem-solving, and project management. I am enthusiastic about applying my technical and analytical skills to the field of data analysis as an entry-level data specialist.
+Hi, I'm Chipo! An Electrical and Electronics Engineering graduate with a strong analytical background. My engineering education has provided me with a solid foundation in analysis, problem-solving, and project management. I am enthusiastic about applying my technical and analytical skills to the field of data analysis as an entry-level data specialist.
 
 In pursuit of my passion for data analysis, I completed the Google Data Analytics Professional Certificate on Coursera, providing me with a great introduction to the world of data. Since then, I have continuously honed my skills and knowledge through hands-on projects and by obtaining additional certifications.
 
@@ -16,7 +16,8 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
   - SQL
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio#cyclistic-bikeshare-rider-analysis)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
+  - Tableau
+  -  [Tableau Visualizations](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
  
 ## Portfolio Projects
 
@@ -29,6 +30,10 @@ In this section you will find my projects and the technologies i've used to cont
 This project was part of my capstone project after my completion of the Google Data Analytics Professional certificate; my first ever project. I will look back at it and see where I started from and use it as reference for how much I will learn as I proceed in my journey to become a data analyst.
 
 **Technology:** MS SQL Server
+
+### Tableau
+
+[Some Visualizations I've created using Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
 
 ### Education
 The Copperbelt University, Zambia 
