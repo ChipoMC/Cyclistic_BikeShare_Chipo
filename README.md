@@ -50,12 +50,12 @@ The Copperbelt University, Zambia
 Beng (Hons) Electrical and Electronics Engineering
 2013 - 2018
 
-## Certificates
+### Certificates
 - Google Data Analytics Professional Certificate - Coursera
 - Excel Fundamentals for Data Analysis - Coursera
 - Off Grid Solar Systems Design and Installation - Kafue Gorge Training Centre
 
-## Contacts
+### Contacts
 - Linkedin: [Chipo Moyo](https://www.linkedin.com/in/chipo-moyo-993aa0179/)
 - Email: chipomc8@gmail.com
 
