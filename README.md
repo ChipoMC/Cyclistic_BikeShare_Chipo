@@ -11,7 +11,7 @@ Welcome to my data-driven journey!
 
 Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://github.com/ChipoMC/Data_Analysis_Portoflio/files/13227787/ChipoMoyoResume.pdf)
 
-##Table of Contents
+## Table of Contents
 - [Portfolio Projects](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#portfolio-projects)
   - SQL
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Cysclistic_Bikeshare_Chipo.sql)
@@ -19,10 +19,17 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
  
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### Analysing differences in the behavior of casual riders vs paid up members of a cyclistic bike share company. 
+
+In this section you will find my projects and the technologies i've used to continue to improve my data analyst skills.
+
+### Cyclistic BikeShare Rider Analysis
+**Code:** [Cyclistic BikeShare Capstone Project](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Cysclistic_Bikeshare_Chipo.sql)
+
+**Description:** Analysing differences in the behavior of casual riders vs paid up members of a cyclistic bike share company. 
 This project was part of my capstone project after my completion of the Google Data Analytics Professional certificate; my first ever project. I will look back at it and see where I started from and use it as reference for how much I will learn as I proceed in my journey to become a data analyst.
 
-**code:**
+**Technology:** MS SQL Server
+
+
 
 
