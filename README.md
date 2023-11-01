@@ -18,6 +18,10 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
   - Excel / Google Sheets
   - Tableau
     - [Cyclictic BikeShare Viz](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#cyclistic-bikeshare-visualisations)
+  - [Education](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#education)
+  - [Certificates](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#certificates)
+  - [Contacts](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#contacts)
+ 
  
 ## Portfolio Projects
 
