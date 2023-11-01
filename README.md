@@ -41,7 +41,7 @@ Beng (Hons) Electrical and Electronics Engineering
 - Off Grid Solar Systems Design and Installation - Kafue Gorge Training Centre
 
 ## Contacts
-- Linkedin: [Chipo Moyo](www.linkedin.com/in/chipo-moyo-993aa0179)
+- Linkedin: [Chipo Moyo](https://www.linkedin.com/in/chipo-moyo-993aa0179/)
 - Email: chipomc8@gmail.com
 
 
