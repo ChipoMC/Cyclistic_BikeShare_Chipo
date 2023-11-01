@@ -17,7 +17,7 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio#cyclistic-bikeshare-rider-analysis)
   - Excel / Google Sheets
   - Tableau
-  -  [Cyclictic BikeShare Viz](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#cyclistic-bikeshare-visualisations)
+    - [Cyclictic BikeShare Viz](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#cyclistic-bikeshare-visualisations)
  
 ## Portfolio Projects
 
