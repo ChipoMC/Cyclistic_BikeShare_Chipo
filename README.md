@@ -43,7 +43,7 @@ This project was part of my capstone project after my completion of the Google D
 
 [Dashboard 2 - Cyclistic](https://github.com/ChipoMC/Portfolio-Projects/blob/main/Tableau-dashboards/cyclistic_bikeshare2.png)
 
-[See more visualizations on Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
+[See more of my work on Tableau](https://public.tableau.com/app/profile/chipo.moyo/vizzes)
 
 ## Education
 The Copperbelt University, Zambia 
