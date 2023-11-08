@@ -15,6 +15,7 @@ Take a look at my resume to learn more about me [ChipoMoyoResume.pdf](https://gi
 - [Portfolio Projects](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#portfolio-projects)
   - SQL
     - [Cyclistic Bikeshare Analysis (Google Capstone Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio#cyclistic-bikeshare-rider-analysis)
+    - [FIFA 21 Data Cleaning Project)](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#fifa-21-data-cleaning-project)
   - Excel / Google Sheets
   - Tableau
     - [Cyclictic BikeShare Viz](https://github.com/ChipoMC/Data_Analysis_Portoflio/blob/main/README.md#cyclistic-bikeshare-visualisations)
