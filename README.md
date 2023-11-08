@@ -36,6 +36,14 @@ This project was part of my capstone project after my completion of the Google D
 
 **Technology:** MS SQL Server
 
+### FIFA 21 Data Cleaning Project
+
+**Code:** [FIFA 21 Data Cleaning Project](https://github.com/ChipoMC/Portfolio-Projects/blob/main/FIFA21_DataCleaning.sql)
+
+**Description:** I was thrilled to have the opportunity to work with the data from FIFA 21, an association football simulation video game published by Electronic Arts. Data cleaning is a critical step in data analysis, and I eagerly took on the challenge of cleaning this dataset. As we know, data cleaning can be an ongoing process, I may continue refining this project as I progress in my data analysis journey.
+
+**Technology:** MS SQL Server
+
 ## Tableau
 
 ### Cyclistic Bikeshare Visualisations
